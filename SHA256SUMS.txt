@@ -1,0 +1,3 @@
+a179a1188220b59787c49a78a0dde79b89380e3a8a8a0ab558f0102c5796f873  Lawnmower Man, The (USA).sfc
+636c6a4314e30b82443417688ea45c24279220ac38a1abaf98f824e2c8f7014e  Lawnmower Man, The (USA) (Korean).sfc
+63d1d4071be31a6b5d35f5210e95c64324dea68b81ee9d7db4e3d07be6818514  Lawnmower_Man_SNES_KR.xdelta

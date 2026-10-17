@@ -1,0 +1,11 @@
+work/
+__pycache__/
+*.py[cod]
+*.sfc
+*.smc
+*.srm
+*.xdelta
+*.exe
+*.ttf
+*.zip
+tools/gen.asm
